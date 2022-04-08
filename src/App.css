@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  width: 660px;
+  max-height: 700px;
+ }
+
+.icons{
+  overflow: scroll;
+  height: 300px;
+
+}
