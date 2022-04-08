@@ -1,0 +1,17 @@
+{
+    "name": "EOS-Icons Browser Extension",
+    "description": "An easily access to EOS-Icons",
+    "author": "EOS UI/UX Solutions",
+    "homepage": "https://eos-icons.com/",
+    "license": "MIT",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "EOS-Icons Browser Extension"
+    },
+    "icons": {
+        "16": "" 
+    
+    }
+ }
